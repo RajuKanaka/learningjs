@@ -1,11 +1,12 @@
 console.log("variables");
 // variables in js
 // var let const ; we can assign vaules in to varibales
-// var is a globally declared.
+// var is a globally scoped declared.
 var name = `kanaka`;
 
 console.log(name);
 // best way to use variables is using const and let
+// let is block scoped.
 {
   let name = "raju";
   console.log(name);
