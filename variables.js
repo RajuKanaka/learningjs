@@ -5,7 +5,7 @@ console.log("variables");
 var name = `kanaka`;
 
 console.log(name);
-// best way to use variables is using const and let
+// best way to use variables is by using const and let
 // let is block scoped.
 {
   let name = "raju";
